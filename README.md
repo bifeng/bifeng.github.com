@@ -1,40 +1,15 @@
-# Jekyll-Bootstrap
+<<<<<<< HEAD
+**序**
+对于我这个技术小小白，要在这里留下自己的踪迹是多么困难的事啊，幸亏自己还存有对“美”的憧憬，加上朋友的鼓舞，最终，克服了重重困难，爬山涉水，虽然现在只是在山脚下...
 
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
+Look back the hard start, I have read more than twenty of blogs about how to build the blog in github, but they are always too "simply" for me, just a few blog helped me... at last, i found that I have to read the technical reports, read it line by line, even thounds of line, there are always have some useful message to you, then find it and read it, learn it by heart! This is the secret! At last i have found it! Bless me! I eventurally take over this obstacle!
 
-## Usage
+In addition, i start the note by myself, it will include all the details! If i can do it, then you can do it too!
+finally ,fogive me poor english...
 
-For all usage and documentation please see: <http://jekyllbootstrap.com>
+建立此博客的目的：
+    虽然很想写日记，但从没“狠”下心来过，所以还是先从这里开始我的博客之旅...好吧，我不带走一片云彩，只想留下一点自己的踪迹...
+    记录下每天的生活，不至于回忆起来，一片空白...
 
-## Version
-
-0.3.0 - stable and versioned using [semantic versioning](http://semver.org/).
-
-**NOTE:** 0.3.0 introduces a new theme which is not backwards compatible in the sense it won't _look_ like the old version.
-However, the actual API has not changed at all.
-You might want to run 0.3.0 in a branch to make sure you are ok with the theme design changes.
-
-## Contributing
-
-
-To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
-This is very important as it allows me to accept your pull request without having to publish a public version release.
-
-Small, atomic Features, bugs, etc.
-Use the `jb-development` branch but note it will likely change fast as pull requests are accepted.
-Please rebase as often as possible when working.
-Work on small, atomic features/bugs to avoid upstream commits affecting/breaking your development work.
-
-For Big Features or major API extensions/edits:
-This is the one case where I'll accept pull-requests based off the master branch.
-This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
-Translation : it might take a bit longer so please be patient! (but sincerely thank you).
-
-**Jekyll-Bootstrap Documentation Website.**
-
-The documentation website at <http://jekyllbootstrap.com> is maintained at https://github.com/plusjade/jekyllbootstrap.com
-
-
-## License
-
-[MIT](http://opensource.org/licenses/MIT)
+**博客地址**
+http://bifeng.github.io/

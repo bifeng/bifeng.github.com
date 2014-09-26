@@ -1,0 +1,92 @@
+---
+layout: post
+category : lessons
+---
+{% include JB/setup %}
+
+
+# Markdown notes
+Markdown enables the use of a syntax much more like plain-text email? lets check it!
+The output of these syntax can view it at http://bifeng.github.io
+
+1. Headers
+# Jekyll-Bootstrap
+## Jekyll-Bootstrap
+### Jekyll-Bootstrap
+
+2. Links
+Use a plain http address or add a link to a phrase:
+http://jekyllbootstrap.com
+<http://jekyllbootstrap.com>
+[semantic versioning](http://semver.org/)
+
+3. Emphasis
+Use an asterisk mark to provide emphasis, such as _NOTE_, __NOTE__, *NOTE:*, **NOTE:**.
+
+4. Inline code
+To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
+
+5. Horizontal Rule / Page Break
+Three or more asterisks or dashes:
+
+********************************
+--------------------------------
+
+6. Create lists with a dash:
+- Item 1
+- Item 2
+
+7. Ordered list:
+1. Item 1
+2. Item 2
+   + Item 2a
+   + Item 2b
+   
+8. Plain Code Blocks
+Plain code blocks are displayed in a fixed-width font but not evaulated
+
+```
+This text is displayed verbatim / preformatted
+```
+
+9. Write 'in-line' code with a black-line and plots:
+
+You can embed an R code chunk like this:
+```{r}
+summary(cars)
+```
+
+You can also embed plots, for example:
+```{r, echo=FALSE}
+plot(cars)
+```
+
+or, more complicated:
+```{r qplot, fig.width=4,fig.height=3,message=FALSE}
+# quick summary and plot
+library(ggplot2)
+summary(cars)
+qplot(speed,dist,data=cars)+geom_smooth()
+```
+
+10. Blockquotes
+A friend once said:
+> It's always better to give
+> than to receive.
+
+
+R Markdown - Dynamic Documents for R! Exactly what he said!
+Reference:<http://rmarkdown.rstudio.com/>
+
+
+
+
+
+
+
+
+
+
+
+
+
