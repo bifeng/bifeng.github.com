@@ -1,14 +1,11 @@
-# Ğò
-¶ÔÓÚÎÒÕâ¸ö¼¼ÊõĞ¡Ğ¡°×£¬ÒªÔÚÕâÀïÁôÏÂ×Ô¼ºµÄ×Ù¼£ÊÇ¶àÃ´À§ÄÑµÄÊÂ°¡£¬ĞÒ¿÷×Ô¼º»¹´æÓĞ¶Ô¡°ÃÀ¡±µÄã¿ã½£¬¼ÓÉÏÅóÓÑµÄ¹ÄÎè£¬×îÖÕ£¬¿Ë·şÁËÖØÖØÀ§ÄÑ£¬ÅÀÉ½ÉæË®£¬ËäÈ»ÏÖÔÚÖ»ÊÇÔÚÉ½½ÅÏÂ...
+# åº
+
 
 Look back the hard start, I have read more than twenty of blogs about how to build the blog in github, but they are always too "simply" for me, just a few blog helped me... at last, i found that I have to read the technical reports, read it line by line, even thounds of line, there are always have some useful message to you, then find it and read it, learn it by heart! This is the secret! At last i have found it! Bless me! I eventurally take over this obstacle!
 
 In addition, i start the note by myself, it will include all the details! If i can do it, then you can do it too!
 finally ,fogive me poor english...
 
-½¨Á¢´Ë²©¿ÍµÄÄ¿µÄ£º
-    ËäÈ»ºÜÏëĞ´ÈÕ¼Ç£¬µ«´ÓÃ»¡°ºİ¡±ÏÂĞÄÀ´¹ı£¬ËùÒÔ»¹ÊÇÏÈ´ÓÕâÀï¿ªÊ¼ÎÒµÄ²©¿ÍÖ®ÂÃ...ºÃ°É£¬ÎÒ²»´ø×ßÒ»Æ¬ÔÆ²Ê£¬Ö»ÏëÁôÏÂÒ»µã×Ô¼ºµÄ×Ù¼£...
-    ¼ÇÂ¼ÏÂÃ¿ÌìµÄÉú»î£¬²»ÖÁÓÚ»ØÒäÆğÀ´£¬Ò»Æ¬¿Õ°×...
 
-**²©¿ÍµØÖ·**
+**åšå®¢åœ°å€**
 http://bifeng.github.io/
